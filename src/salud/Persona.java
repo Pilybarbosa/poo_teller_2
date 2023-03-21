@@ -2,7 +2,6 @@ package salud;
 
 import java.util.Scanner;
 
-import javax.sound.midi.Soundbank;
 
 public class Persona {
     Scanner leer= new  Scanner(System.in);
